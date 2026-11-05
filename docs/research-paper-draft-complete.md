@@ -2,8 +2,10 @@
 
 **A Computational Analysis of Genre Development, Global Influences, Listener Communities, and Musical Ecosystems**
 
-**Author**: Ismail Hossain
-**Affiliation**: Independent research project (github.com/smile-plzz/bangladesh-music-evolution)
+**Author**: Md. Ismail Hossain  
+**Affiliation**: Institute of Information Technology (IIT), Jahangirnagar University, Dhaka, Bangladesh  
+**Email**: [ismailhossain013@gmail.com](mailto:ismailhossain013@gmail.com)  
+**Profile & Links**: [Portfolio](https://smile-plzz.github.io/Ismail_Hossain/) | [GitHub](https://github.com/smile-plzz) | [LinkedIn](https://www.linkedin.com/in/md-ismail-hossain-2938541b1/) | [Facebook](https://www.facebook.com/optimisticyetpessimist/)
 **Version**: Second draft — first version carrying computed empirical results (2026-08-27)
 **Keywords**: Bangladesh music, genre evolution, cultural hybridity, co-appearance networks, sound evolution, concert culture, computational social science, digital humanities, global influence, local adaptation
 
